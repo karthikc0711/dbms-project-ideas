@@ -4,6 +4,5 @@
  click on the below blue link to redirect to the repositories for complete source code.
  <br>
 01. Hospital Management System Database Design
-2. <br>
-3. click here
+ <br>click here
  [ Hospital Management System Database Design](https://github.com/Atakatom/Hospital_Management_System)
