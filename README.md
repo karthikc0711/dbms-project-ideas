@@ -16,4 +16,4 @@
 <br>
  02. Database Design for Clinic Management System
  <br>click here>>>
- [Database Design for Clinic Management System](https://github.com/VinayakMohite4040/Clinical-Database-Management-System)
+  [Database Design for Clinic Management System](https://github.com/VinayakMohite4040/Clinical-Database-Management-System)
