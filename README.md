@@ -12,8 +12,8 @@
  The Hospital management system database design is a database design use for managing hospital functions and events. It enables the admin to register a patient for the     hospital, stores their disease details into the database. Any of the staff members, doctor & admin is able to add, view, edit, update or delete data.
  This Hospital Management System Database Design has an ER Diagram for Hospital Management System project. This material includes database schema, Data dictionaries,       Database Tables and ERD.
  
- <br
-     <br>
+<br>
+<br>
  02. Database Design for Clinic Management System
  <br>click here>>>
  [Database Design for Clinic Management System](https://github.com/VinayakMohite4040/Clinical-Database-Management-System)
