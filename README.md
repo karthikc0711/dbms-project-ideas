@@ -19,7 +19,8 @@
   [Database Design for Clinic Management System](https://github.com/VinayakMohite4040/Clinical-Database-Management-System)
   <br>
   A Database Design for Clinic Management System is the final requirements in Database management system 1 subject. The system for this database design will be created using JAVA NETBEANS IDE. Clinic Management System is the one who can manage all the records of the check-up, patients, treatments, medicines, and equipment. And the main purpose of Clinic Management System is to maintain the details of the patients and make data retrieval easy and efficient.
-  <br>
+<br>
+<br>
 03. Database Design for Inventory Management System
  <br>click here>>>
   [ Database Design for Inventory Management System](https://github.com/rishimule/inventory-tracking-system)
