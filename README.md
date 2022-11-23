@@ -3,14 +3,14 @@
  <br>
  click on the below blue link to redirect to the repositories for complete source code.
  <br>
-01. Hospital Management System Database Design
+ 01. Hospital Management System Database Design
  <br>click here>>>
  [ Hospital Management System Database Design](https://github.com/Atakatom/Hospital_Management_System)
  <br>
-What is Hospital Management System Database Design?
-<br>
-The Hospital management system database design is a database design use for managing hospital functions and events. It enables the admin to register a patient for the hospital, stores their disease details into the database. Any of the staff members, doctor & admin is able to add, view, edit, update or delete data.
- This Hospital Management System Database Design has an ER Diagram for Hospital Management System project. This material includes database schema, Data dictionaries, Database Tables and ERD.
+ What is Hospital Management System Database Design?
+ <br>
+ The Hospital management system database design is a database design use for managing hospital functions and events. It enables the admin to register a patient for the     hospital, stores their disease details into the database. Any of the staff members, doctor & admin is able to add, view, edit, update or delete data.
+ This Hospital Management System Database Design has an ER Diagram for Hospital Management System project. This material includes database schema, Data dictionaries,       Database Tables and ERD.
  
 02. Hospital Management System Database Design
  <br>click here>>>
